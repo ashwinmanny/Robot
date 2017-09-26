@@ -1,0 +1,5 @@
+C:\Users\amanny\Documents\Visual Studio 2012\Projects\IngenioApplication\RobotApplication\bin\Debug\RobotApplication.exe.config
+C:\Users\amanny\Documents\Visual Studio 2012\Projects\IngenioApplication\RobotApplication\bin\Debug\RobotApplication.exe
+C:\Users\amanny\Documents\Visual Studio 2012\Projects\IngenioApplication\RobotApplication\bin\Debug\RobotApplication.pdb
+C:\Users\amanny\Documents\Visual Studio 2012\Projects\IngenioApplication\RobotApplication\obj\Debug\RobotApplication.exe
+C:\Users\amanny\Documents\Visual Studio 2012\Projects\IngenioApplication\RobotApplication\obj\Debug\RobotApplication.pdb
